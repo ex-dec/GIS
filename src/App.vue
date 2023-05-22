@@ -24,7 +24,7 @@
 			<About />
 		</section>
 
-		<section class="section bg-gradient-to-r from-slate-700 to-indigo-900">
+		<section class="footer bg-gradient-to-r from-slate-700 to-indigo-900">
 			<Footer />
 		</section>
 		
@@ -43,5 +43,8 @@
 <style scoped>
 	.section {
 		@apply w-full px-0 py-12 md:px-16 xl:px-28;
+	}
+	.footer {
+		@apply px-0 py-10 md:px-16 xl:px-28;
 	}
 </style>

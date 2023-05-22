@@ -9,9 +9,9 @@
 			<h1 id="heading" class="lg:text-5xl lg:leading-snug text-3xl text-gray-50 font-semibold">
 				Pemetaan Rawan Longsor Daerah Gunung Penanggungan
 			</h1>
-			<p class="lg:text-2xl text-gray-100 font-medium mt-4">Dengan tema :</p>
+			<p class="lg:text-2xl text-gray-100 font-medium mt-4">Keselamatan :</p>
 			<p class="lg:text-2xl text-gray-100 font-medium">
-				
+				Kunci Utama dalam Mewujudkan Impian Pendakianmu
 			</p>
 			
 			<!-- Call to action -->
