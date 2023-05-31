@@ -1,0 +1,74 @@
+{
+    "belik": {
+        "latitude": "-7.65859",
+        "longitude": "112.619959",
+        "penduduk": "1783",
+        "color": "blue"
+    },
+    "duyung": {
+        "latitude": "-7.645474",
+        "longitude": "112.615616",
+        "penduduk": "1429",
+        "color": "blue"
+    },
+    "jatijejer": {
+        "latitude": "-7.612267",
+        "longitude": "112.570726",
+        "penduduk": "2086",
+        "color": "blue"
+    },
+    "kedungudi": {
+        "latitude": "-7.624720",
+        "longitude": "112.594675",
+        "penduduk": "922",
+        "color": "blue"
+    },
+    "kesiman": {
+        "latitude": "-7.657425",
+        "longitude": "112.608404",
+        "penduduk": "2924",
+        "color": "blue"
+    },
+    "ketapanrame": {
+        "latitude": "-7.673675",
+        "longitude": "112.608408",
+        "penduduk": "5073",
+        "color": "blue"
+    },
+    "penanggungan": {
+        "latitude": "-7.640927",
+        "longitude": "112.591934",
+        "penduduk": "2653",
+        "color": "blue"
+    },
+    "seloliman": {
+        "latitude": "-7.599404",
+        "longitude": "112.591175",
+        "penduduk": "2465",
+        "color": "blue"
+    },
+    "selotapak": {
+        "latitude": "-7.655118",
+        "longitude": "112.592073",
+        "penduduk": "1808",
+        "color": "blue"
+    },
+    "sugeng": {
+        "latitude": "-7.595143",
+        "longitude": "112.577952",
+        "penduduk": "670",
+        "color": "blue"
+    },
+    "sukosari": {
+        "latitude": "-7.646960",
+        "longitude": "112.577522",
+        "penduduk": "619",
+        "color": "blue"
+    },
+    "tamiajeng": {
+        "latitude": "-7.652624",
+        "longitude": "112.601958",
+        "penduduk": "3295",
+        "color": "blue"
+    }
+}

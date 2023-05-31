@@ -1,0 +1,22 @@
+{
+    "titik 1": {
+        "latitude": "-7.599404",
+        "longitude": "112.601175",
+        "color": "red"
+    },
+    "titik 2": {
+        "latitude": "-7.619720",
+        "longitude": "112.592675",
+        "color": "red"
+    },
+    "titik 3": {
+        "latitude": "-7.640474",
+        "longitude": "112.620616",
+        "color": "red"
+    },
+    "titik 4": {
+        "latitude": "-7.619720",
+        "longitude": "112.612675",
+        "color": "red"
+    }
+}
